@@ -19,7 +19,7 @@ export interface PackagingMetadataObject {
   identifier: string,
   language: string,
   rights: string,
-  date: string,
+  modified: string,
   layout: string,
   orientation: string,
   flow: string,
